@@ -7,3 +7,6 @@ build/
 .idea/
 .vscode/
 *.lock
+.env
+.env.*
+!.env.example
